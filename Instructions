@@ -1,0 +1,63 @@
+Certainly! Here are step-by-step instructions for a beginner to use the image encryption code:
+
+Setup:
+
+Make sure you have Python installed on your computer. You can download it from python.org.
+Open a command prompt or terminal.
+Install required libraries by typing:
+Copypip install Pillow numpy
+
+
+
+Create the script:
+
+Open a text editor (like Notepad or VS Code).
+Copy and paste the provided code into a new file.
+Save the file as image_encryption.py in a location you can easily access.
+
+
+Prepare your image:
+
+Choose an image you want to encrypt.
+Note down the full path to this image.
+
+
+Run the script:
+
+In the command prompt or terminal, navigate to the directory where you saved image_encryption.py.
+Type python image_encryption.py and press Enter.
+
+
+Using the tool:
+
+You'll see a prompt: "Enter 'e' to encrypt, 'd' to decrypt, or 'q' to quit:"
+
+Type 'e' for encryption or 'd' for decryption and press Enter.
+
+
+Enter the full path to your input image when prompted.
+Enter the full path where you want to save the output image.
+For the key, enter a series of numbers separated by spaces (e.g., "123 45 67 89").
+
+
+Encrypting an image:
+
+Choose 'e' when prompted.
+Enter the path to your original image.
+Enter a path for the encrypted image (use a different name from the original).
+Enter your chosen key.
+The program will create an encrypted version of your image.
+
+
+Decrypting an image:
+
+Choose 'd' when prompted.
+Enter the path to your encrypted image.
+Enter a path for the decrypted image.
+Enter the same key you used for encryption.
+The program will recover your original image.
+
+
+Quitting the program:
+
+Type 'q' when prompted to exit the program.
