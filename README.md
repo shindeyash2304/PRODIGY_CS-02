@@ -1,5 +1,6 @@
 # PRODIGY_CS-02
 Pixel Manipulation Image Encryption 
+
 This project implements a basic image encryption and decryption tool using pixel manipulation techniques. The tool allows users to securely encrypt images and later decrypt them using a secret key.
 Features:
 
