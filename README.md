@@ -2,6 +2,8 @@
 Pixel Manipulation Image Encryption 
 
 This project implements a basic image encryption and decryption tool using pixel manipulation techniques. The tool allows users to securely encrypt images and later decrypt them using a secret key.
+
+
 Features:
 
 Encryption: Applies a mathematical operation (XOR) to each pixel of the input image using a user-provided key.
